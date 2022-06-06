@@ -35,5 +35,11 @@ section {
 
 .top-banner {
     background-image: url(images/pexels-photo-255379.webp);
-    background-image: no-repeat;
+    background-repeat: no-repeat;
+}
+
+.dream-big {
+    background-image: url(images/pexels-photo-735812.webp);
+    background-repeat: no-repeat;
+    background-position: right;
 }
